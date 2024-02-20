@@ -4,11 +4,11 @@
 ---
 ## Contenido del repositorio  
 · Este README.MD, con la descripción del enunciado y la resolución de la práctica.   
-· "practica_david_jimenez.ipynb": Notebook de Jupyter de Python con la solución al problema. 
+· "practica_david_jimenez.ipynb": Notebook de Jupyter de Python con la solución al problema.  
 · "houses4.png": Archivo auxiliar para el notebook.  
 ## Repository content  
 · This README.MD containing the project description.  
-· "practica_david_jimenez.ipynb": Jupyter Python Notebook with the solutions.
+· "practica_david_jimenez.ipynb": Jupyter Python Notebook with the solutions.  
 · "houses4.png": Auxiliary file for the notebook.  
   
 ---
